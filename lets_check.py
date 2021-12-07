@@ -1,1 +1,6 @@
-print("I am trying to push in my new repo for that \nI will clone this repo to my local server\nand will add this to the staging area \nthen commit which will save the changes to the local server and\nthen push it to my remote server(git)\nI will do all this with git bash ")
+print('''1) git clone-add the file to your local server 
+2) git status- give you the status about your repo 
+3)git add fileneame- add the file to the git staging area 
+4)git commit -m 'message'- commit the changes that are in the staging are to your local server 
+5) git push- push the changes to the remote server
+6)git difftool HEAD-shows the differnce between the last changes done n the file''')
