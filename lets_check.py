@@ -1,0 +1,1 @@
+print("I am trying to push in my new repo for that \nI will clone this repo to my local server\nand will add this to the staging area \nthen commit which will save the changes to the local server and\nthen push it to my remote server(git)\nI will do all this with git bash ")
